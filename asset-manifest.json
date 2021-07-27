@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/profile/static/css/main.8a53fdf7.chunk.css",
+    "main.js": "/profile/static/js/main.4e0f9cd0.chunk.js",
+    "main.js.map": "/profile/static/js/main.4e0f9cd0.chunk.js.map",
+    "runtime-main.js": "/profile/static/js/runtime-main.4ab23f44.js",
+    "runtime-main.js.map": "/profile/static/js/runtime-main.4ab23f44.js.map",
+    "static/js/2.28f44ad6.chunk.js": "/profile/static/js/2.28f44ad6.chunk.js",
+    "static/js/2.28f44ad6.chunk.js.map": "/profile/static/js/2.28f44ad6.chunk.js.map",
+    "static/js/3.91a12878.chunk.js": "/profile/static/js/3.91a12878.chunk.js",
+    "static/js/3.91a12878.chunk.js.map": "/profile/static/js/3.91a12878.chunk.js.map",
+    "index.html": "/profile/index.html",
+    "static/css/main.8a53fdf7.chunk.css.map": "/profile/static/css/main.8a53fdf7.chunk.css.map",
+    "static/js/2.28f44ad6.chunk.js.LICENSE.txt": "/profile/static/js/2.28f44ad6.chunk.js.LICENSE.txt",
+    "static/media/FlowerChart.5da46561.png": "/profile/static/media/FlowerChart.5da46561.png",
+    "static/media/SimpleSlider.8b4ce619.png": "/profile/static/media/SimpleSlider.8b4ce619.png",
+    "static/media/SpiderChart.74582a91.png": "/profile/static/media/SpiderChart.74582a91.png",
+    "static/media/VerticalBenchmarkChart.3d2e710a.png": "/profile/static/media/VerticalBenchmarkChart.3d2e710a.png",
+    "static/media/App.css": "/profile/static/media/pic.c4118466.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ab23f44.js",
+    "static/js/2.28f44ad6.chunk.js",
+    "static/css/main.8a53fdf7.chunk.css",
+    "static/js/main.4e0f9cd0.chunk.js"
+  ]
+}
